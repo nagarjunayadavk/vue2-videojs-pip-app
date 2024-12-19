@@ -15,6 +15,7 @@
 ## Installation
 
 To get started with **vue2-videojs-pip-app**, follow these steps:
+copy video-js in to **Plugins with version 7.17.0 ** 
 
 ### 1. Clone the repository
 
